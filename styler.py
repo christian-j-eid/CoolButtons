@@ -4,3 +4,4 @@ class STYLE:
 
     def __str__(self):
         return self.f.read()
+
